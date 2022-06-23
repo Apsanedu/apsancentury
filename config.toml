@@ -1,0 +1,31 @@
+baseURL = 'http://apsancentury.com/'
+languageCode = 'en-us'
+theme = 'digitalgarden'
+title = 'Apsans Webpage'
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'About'
+  url = '/about'
+  weight = 2 
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 3 
+[[menu.main]]
+  name = 'Projects'
+  url = '/projects'
+  weight = 4 
+[[menu.main]]
+  name = 'Old Site'
+  url = '/old'
+  weight = 5
+
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://twitter.com'
+  weight = 1
