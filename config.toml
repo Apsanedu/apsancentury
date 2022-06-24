@@ -17,8 +17,8 @@ title = 'Apsans Webpage'
   url = '/articles'
   weight = 3 
 [[menu.main]]
-  name = 'Projects'
-  url = '/projects'
+  name = 'Portfolio'
+  url = '/portfolio'
   weight = 4 
 [[menu.main]]
   name = 'Old Site'
